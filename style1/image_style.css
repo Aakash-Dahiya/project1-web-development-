@@ -1,0 +1,27 @@
+.search{
+    font-size: 18px;
+    float: right;
+    border-style: none;
+    border-radius: 4px;
+}
+
+.gq{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-right: 30px;
+}
+
+.gq:hover{
+    cursor: pointer;
+}
+
+.m{
+    width: 335px;
+    margin-top: 0px;
+}
+
+.n{
+    width: 430px;
+    margin-top: 0px;
+}

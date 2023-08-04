@@ -1,0 +1,20 @@
+.new:hover{
+    cursor: pointer;
+    color: rgb(73, 73, 251);
+    text-decoration: underline;
+}
+
+.new:active{
+    color: rgb(159, 32, 159);
+}
+
+.new{
+    font-family: Arial;
+    color: rgb(9, 101, 9);
+    font-size: 16px;
+    margin-top: 0px;
+    text-align: left;
+    margin-left: 21px;
+    margin-right: 8px;
+    text-decoration: none;
+}

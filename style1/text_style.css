@@ -1,0 +1,129 @@
+.to{
+    background-color: rgba(15, 15, 15, 0.993);
+    font-size: 32px;
+    padding: 14px 14px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.title{
+    display: block;
+    text-align: center;
+    background-color: rgb(105, 105, 105);
+    padding: 20px 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.mods:hover{
+    cursor: pointer;
+    color: rgb(73, 73, 251);
+    text-decoration: underline;
+}
+
+.mods:active{
+    color: rgb(159, 32, 159);
+}
+
+.mods{
+    font-family: Arial;
+    color: rgb(9, 101, 9);
+    font-size: 16px;
+    margin-top: 0px;
+    text-align: left;
+    margin-left: 21px;
+    margin-right: 8px;
+    text-decoration: none;
+}
+
+.about{
+    width: 650px;
+    margin-left: 60px;
+    margin-right: 0px;
+    color: rgb(11, 45, 56);
+    margin-top: 100px;
+    font-family: Arial;
+    font-size: 20px;
+    display: inline-block;
+    text-align: right;
+    text-decoration: solid;
+}
+
+.body{
+    background-image: url('peakpx.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.top{
+    font-family: Arial;
+    background-color: rgb(9, 101, 9);
+    padding: 14px 14px;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 15px;
+}
+
+.g{
+    width: 2px;
+    float: right;
+}
+
+.ab{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+}
+
+.about1{
+    width: 650px;
+    margin-left: 0px;
+    color: rgb(11, 45, 56);
+    margin-top: 100px;
+    font-family: Arial;
+    font-size: 20px;
+    display: inline-block;
+    text-align: left;
+    text-decoration: solid;
+}
+
+.h1{
+    width: 650px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 60px;
+    display: inline-block;
+    font-family: Arial;
+    color: rgb(11, 45, 56);
+}
+
+.now{
+    width: 650px;
+    display: inline-block;
+    padding-top: 10px;
+    display: inline-block;
+    padding-bottom: 10px;
+    background-color: rgb(8, 86, 8);
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    color: white;
+}
+
+.b1{
+    width: 650px;
+    margin-left: 60px;
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    color: rgb(7, 25, 32);
+}

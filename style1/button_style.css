@@ -1,0 +1,82 @@
+.sign{
+    margin-top: 0px;
+    color: rgb(9, 101, 9);
+    background-color: white;
+    border-radius: 4px;
+    border-style: solid;
+    padding: 7px 11px;
+    font-family: Arial;
+    font-size: 15px;
+    margin-left: 21px;
+    margin-right: 18px;
+    float: right;
+    border-width: 2px;
+    border-color: rgb(9, 101, 9);
+    transition: 0.15s;
+    margin-bottom: 0px;
+}
+
+.sign:hover{
+    cursor: pointer;
+    background-color: rgb(9, 101, 9);
+    color: white;
+}
+
+.sign:active{
+    opacity: 0.7;
+}
+
+.log{
+    margin-top: 0px;
+    color: rgb(9, 101, 9);
+    background-color: white;
+    border-radius: 4px;
+    border-style: solid;
+    padding: 7px 11px;
+    font-family: Arial;
+    font-size: 15px;
+    margin-left: 21px;
+    margin-right: 0px;
+    float: right;
+    border-width: 2px;
+    border-color: rgb(9, 101, 9);
+    transition: 0.15s;
+    margin-bottom: 0px;
+}
+
+.log:hover{
+    cursor: pointer;
+    background-color: rgb(9, 101, 9);
+    color: white;
+}
+
+.log:active{
+    opacity: 0.7;
+}
+
+.apple{
+    background-color: rgb(8, 86, 8);
+    padding: 16px;
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 160px;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 4px;
+    border-style: solid;
+    transition: 0.15s;
+}
+
+.apple:hover{
+    cursor: pointer;
+    background-color: white;
+    color: rgb(8, 86, 8);
+    border-color: rgb(8, 86, 8);
+}
+
+.apple:active{
+    opacity: 0.7;
+}
